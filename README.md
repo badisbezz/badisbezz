@@ -1,6 +1,6 @@
 ---
-<h1 align="center">Hi there 👋
-<h1 align="center">I am Badis
+<h2 align="center">Hi there 👋
+<h2 align="center">I am Badis
 <p align="center">
   🧠 Software Developer • 🎯 Problem Solver • 💡 AI Explorer  
 </p>
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter** and am currently diving deep into **AI integration** to build smart, efficient tools for everyday life.
+I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter** and am currently diving deep into **AI integration** to build smart, efficient tools for everyday life.
 
 - 🎓 Bachelor’s Degree in Computer Science.
 - 🔍 Exploring the intersection of **AI, UX, and mobile technologies**.
