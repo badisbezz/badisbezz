@@ -1,6 +1,6 @@
 ---
-<h2 align="center">Hi there 👋
-<h2 align="center">I am Badis
+<h3 align="center">Hi there 👋
+<h3 align="center">I am Badis
 <p align="center">
   🧠 Software Developer • 🎯 Problem Solver • 💡 AI Explorer  
 </p>
