@@ -2,15 +2,14 @@
 <h1 align="center">Hi there 👋
 <h1 align="center">I am Badis
 <p align="center">
-  🧠 Software Developer • 🎯 Problem Solver • 💡 AI Explorer  
+  🧠 Software Developer • 🎯 Problem Solver
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter** and am currently diving deep into **AI integration** to build smart, efficient tools for everyday life.
-
+I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter**, **UI/UX designer**.
 - 🎓 Bachelor’s Degree in Computer Science.
 - 🔍 Exploring the intersection of **AI, UX, and mobile technologies**.
 - 📫 Reach me at: badisbezz@gmail.com | [linkedin.com/in/badisbezz](#)
@@ -40,8 +39,8 @@ I am a software developer focused on creating **intelligent and impactful applic
 - 🧼 **Mr. Proper Clean**  
   A mobile platform to connect cleaning service providers with customers in Algeria.
 
-- 📱 **Intelligent To-Do List (Ido)**  
-  A smart productivity app that uses AI to organize and prioritize daily tasks.
+- 📱 **Expense Tracker**  
+  A smart expense tracking app for productivity app that uses AI to organize and prioritize daily tasks.
 
 ---
 <!--
