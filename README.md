@@ -2,14 +2,14 @@
 <h1 align="center">Hi there 👋
 <h1 align="center">I am Badis
 <p align="center">
-  🧠 Software Developer • 🎯 Problem Solver
+  🧠 Software Developer • UI/UX Designer • 🎯 Problem Solver
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter**, **UI/UX designer**.
+I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter**, **UI/UX design**.
 - 🎓 Bachelor’s Degree in Computer Science.
 - 🔍 Exploring the intersection of **AI, UX, and mobile technologies**.
 - 📫 Reach me at: badisbezz@gmail.com | [linkedin.com/in/badisbezz](#)
