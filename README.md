@@ -56,7 +56,7 @@ I am a software developer focused on creating **intelligent and impactful applic
 ## 🌱 Currently Learning
 
 - 🤖 AI model integration for mobile apps
-- 🔐 Authentication and security with Supabase
+- 🔐 Security with Supabase
 
 ---
 
@@ -67,17 +67,3 @@ If you have a project, an idea, or just want to talk tech — I'm open to collab
 📫 Email: [badisbezz@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/badisbezz](#)
 
-
-<!--
-**badisbezz/badisbezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
