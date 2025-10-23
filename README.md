@@ -43,14 +43,14 @@ I am a software developer focused on creating **intelligent and impactful applic
   A smart expense tracking app for productivity app that uses AI to organize and prioritize daily tasks.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badisbezz&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badisbezz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 
 
 ## 🌱 Currently Learning
