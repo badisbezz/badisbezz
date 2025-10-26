@@ -1,6 +1,6 @@
 ---
 <h1 align="center">Hi there 👋
-<h1 align="center">I am Badis
+<h1 align="center">Badis is here
 <p align="center">
   Software Developer • UI/UX Designer
 </p>
@@ -35,9 +35,6 @@ I am a software developer focused on creating **intelligent and impactful applic
 
 - 🏠 **HomePresta**  
   A full-service platform for home maintenance services (plumbing, electrical, cleaning, etc.)
-
-- 🧼 **Mr. Proper Clean**  
-  A mobile platform to connect cleaning service providers with customers in Algeria.
 
 - 📱 **Expense Tracker**  
   A smart expense tracking app for productivity app that uses AI to organize and prioritize daily tasks.
