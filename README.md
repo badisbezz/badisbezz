@@ -11,7 +11,7 @@
 
 I am a software developer focused on creating **intelligent and impactful applications**. I specialize in **mobile development with Flutter**, **UI/UX design**.
 - 🎓 Bachelor’s Degree in Computer Science.
-- 🔍 Exploring the intersection of **AI, UX, and mobile technologies**.
+- 🔍 Exploring the intersection of **AI, UI/UX, and mobile technologies**.
 - 📫 Reach me at: badisbezz@gmail.com | [linkedin.com/in/badisbezz](#)
 
 ---
