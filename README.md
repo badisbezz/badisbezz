@@ -37,7 +37,7 @@ I am a software developer focused on creating **intelligent and impactful applic
   A full-service platform for home maintenance services (plumbing, electrical, cleaning, etc.)
 
 - 📱 **Expense Tracker**  
-  A smart expense tracking app for productivity app that uses AI to organize and prioritize daily tasks.
+  An expense tracking app for productivity app to organize and prioritize daily tasks.
 
 ---
 <!--
