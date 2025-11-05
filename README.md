@@ -16,7 +16,7 @@ I am a software developer focused on creating **intelligent and impactful applic
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack 
 
 <div align="center">
 
