@@ -55,6 +55,7 @@ I am a software developer focused on creating **intelligent and impactful applic
 - 🤖 AI model integration for mobile apps
 - 🔐 Security with Supabase / Firebase
 
+
 ---
 
 ## 💬 Let's Connect!
