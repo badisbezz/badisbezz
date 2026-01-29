@@ -39,6 +39,9 @@ I am a software developer focused on creating **intelligent and impactful applic
 - 📱 **Expense Tracker**  
   An expense tracking app for productivity app to organize and prioritize daily tasks.
 
+- 📱 **UniGrades**  
+  A university grades calculator.
+
 ---
 <!--
 ## 📊 GitHub Stats
